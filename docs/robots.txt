@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hitmanprologinaccount.readthedocs.io/en/latest/
